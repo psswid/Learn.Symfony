@@ -1,0 +1,23 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+#
+#app_lucky_number:
+#  path:       /lucky/number/{max}
+#  controller: App\Controller\LuckyController::number
+#
+#blog_list:
+#  path:       /blog/{page}
+#  controller: App\Controller\BlogController::blogList
+#  defaults:
+#    page: 1
+#  requirements:
+#    page: '\d+'
+#
+#blog_show:
+#  path:       /blog/{slug}
+#  controller: App\Controller\BlogController::show
+#
+#todo:
+#  path:       /todos
+#  controller: App\Controller\TodoController:listAction
