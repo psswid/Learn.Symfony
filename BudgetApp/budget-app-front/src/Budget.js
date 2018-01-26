@@ -73,14 +73,17 @@ class Budget extends Component {
         return (
             <div className="Budget">
                 <h1>Budget </h1>
-                <div>
+                <div className="BudgetIncome">
                     <h2>Income streams: </h2>
 
                     <table border="1">
                         <thead>
+                        <tr>
                             <th>Name</th>
                             <th>Amount</th>
                             <th>Frequency</th>
+
+                        </tr>
                         </thead>
                         <tbody>
                             {incomeStreamComponents}
@@ -93,8 +96,10 @@ class Budget extends Component {
 
                     <table border="1">
                         <thead>
+                        <tr>
                             <th>Name</th>
                             <th>Amount</th>
+                        </tr>
                         </thead>
                         <tbody>
                             {expenses}
