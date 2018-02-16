@@ -11,4 +11,6 @@ Project not finished, had to break with it, as fact this was my second contact w
 
 Basically, even author of yt channel had lots of problems, so I gave up to not waste time.
 
+Database contains 3 tables: budget, expense and income_stream. Check database.json.
+
 If someone would try to run it, type in console npm start in budget-app-front and then  php bin/console server:run in budget-app-api
