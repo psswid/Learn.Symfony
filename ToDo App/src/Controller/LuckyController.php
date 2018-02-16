@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Stef
- * Date: 18.01.2018
- * Time: 12:08
- */
+
 
 namespace App\Controller;
 
