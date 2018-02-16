@@ -1,4 +1,4 @@
-# php basic cms
+# BudgetApp
 
 based on Finance App in Symfony 3 on yt/Code With Nate
 
