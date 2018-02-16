@@ -1,5 +1,4 @@
-# php basic cms
-
+# ToDo App
 based Building a Symfony 3 App on yt/Traversy Media
 
 Technologies used:
